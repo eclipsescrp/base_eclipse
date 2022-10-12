@@ -4,13 +4,16 @@ config = { }
 
 -- LOCAL ONDE FICA A MAQUINA DE PRODUÇÃO.
 config.prodMachine = {
-    [1] = { ['x'] = 610.32, ['y'] = -3096.01, ['z'] = 6.07 },
+    [1] = { ['x'] = 436.33, ['y'] = -1973.14, ['z'] = 17.29 },
+    [2] = { ['x'] = 2537.53, ['y'] = 4120.98, ['z'] = 31.47 },
+ 
 }
 
 -- PERMISSÕES PARA ACESSAR A MAQUINA.
 -- Minimo: 1 - Maximo: 5
 config.permissionMachine = {   
-    "manager.permissao",
+    "drogas1.permissao",
+    "drogas2.permissao",
 }
 
 --[ CONFIGURAÇÃO DA PRODUÇÃO ]-------------------------------------------------------------------------------------------------------------------------

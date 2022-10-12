@@ -374,179 +374,179 @@ groups.list = {
     },
     
 
-	['orgdone'] = {
+	['Casino'] = {
 		_config = {
-			title = 'Membro dos NOME',
+			title = 'Membro do Casino',
 			gtype = 'primario'
 		},
-		'orgdone.permissao'
+		'casino.permissao'
 	},
-	['lider-orgdone'] = {
+	['lider-casino'] = {
 		_config = {
-			title = 'Líder dos NOME',
+			title = 'Líder do Casino',
 			gtype = 'hie'
 		},
-		'lider-orgdone.permissao'
+		'lider-casino.permissao'
 	},
 	
 	
-	['orgdtwo'] = {
+	['drogas1'] = {
 		_config = {
-			title = 'Membro da NOME',
+			title = 'Drogas1',
 			gtype = 'primario'
 		},
-		'orgdtwo.permissao'
+		'drogas1.permissao'
 	},
-	['lider-orgdtwo'] = {
+	['lider-drogas1'] = {
 		_config = {
-			title = 'Líder da NOME',
+			title = 'Líder Drogas1',
 			gtype = 'hie'
 		},
-		'lider-orgdtwo.permissao'
+		'lider-drogas1.permissao'
     },
     
 	
-	['orgdthree'] = {
+	['drogas2'] = {
 		_config = {
-			title = 'Membro da NOME',
+			title = 'Drogas2',
 			gtype = 'primario'
 		},
-		'orgdthree.permissao'
+		'drogas2.permissao'
 	},
-	['lider-orgdthree'] = {
+	['lider-drogas2'] = {
 		_config = {
-			title = 'Líder da NOME',
+			title = 'Líder Drogas2',
 			gtype = 'hie'
 		},
-		'lider-orgdthree.permissao'
+		'lider-drogas2.permissao'
 	},
 
 
-	['orgdfour'] = {
+	['drogas3'] = {
 		_config = {
-			title = 'Membro da NOME',
+			title = 'Drogas3',
 			gtype = 'primario'
 		},
-		'orgdfour.permissao'
+		'drogas3.permissao'
 	},
-	['lider-orgdfour'] = {
+	['lider-drogas3'] = {
 		_config = {
-			title = 'Líder da NOME',
+			title = 'Líder Drogas3',
 			gtype = 'hie'
 		},
-		'lider-orgdfour.permissao'
+		'lider-drogas3.permissao'
 	},
 
 
-	['orgdfive'] = {
+	['drogas4'] = {
 		_config = {
-			title = 'Membro da NOME',
+			title = 'Drogas4',
 			gtype = 'primario'
 		},
-		'orgdfive.permissao'
+		'drogas4.permissao'
 	},
-	['lider-orgdfive'] = {
+	['lider-drogas4'] = {
 		_config = {
-			title = 'Líder da NOME',
+			title = 'Líder Drogas4',
 			gtype = 'hie'
 		},
-		'lider-orgdfive.permissao'
+		'lider-drogas4.permissao'
 	},
 
 
-	['orgdsix'] = {
+	['drogas5'] = {
 		_config = {
-			title = 'Membro da NOME',
+			title = 'Drogas5',
 			gtype = 'primario'
 		},
-		'orgdsix.permissao'
+		'drogas5.permissao'
 	},
-	['lider-orgdsix'] = {
+	['lider-drogas5'] = {
 		_config = {
-			title = 'Líder da NOME',
+			title = 'Líder Drogas5',
 			gtype = 'hie'
 		},
-		'lider-orgdsix.permissao'
+		'lider-drogas5.permissao'
 	},
 
 
-	['orggone'] = {
+	['drogas6'] = {
 		_config = {
-			title = 'Membro NOME',
+			title = 'Drogas6',
 			gtype = 'primario'
 		},
-		'orggone.permissao'
+		'drogas6.permissao'
 	},
-	['lider-orggone'] = {
+	['lider-drogas6'] = {
 		_config = {
-			title = 'Líder NOME',
+			title = 'Líder Drogas6',
 			gtype = 'hie'
 		},
-		'lider-orggone.permissao'
+		'lider-drogas6.permissao'
 	},
 
 	
-	['orggtwo'] = {
+	['armas1'] = {
 		_config = {
-			title = 'Membro NOME',
+			title = 'Armas1',
 			gtype = 'primario'
 		},
-		'orggtwo.permissao'
+		'armas1.permissao'
 	},
-	['lider-orggtwo'] = {
+	['lider-armas1'] = {
 		_config = {
-			title = 'Presidente NOME',
+			title = 'Presidente Armas1',
 			gtype = 'hie'
 		},
-		'lider-orggtwo.permissao'
+		'lider-armas1.permissao'
 	},
 
 	
-	['orgmone'] = {
+	['armas2'] = {
 		_config = {
-			title = 'Membro Green Valley', -- Galaxy
+			title = 'Membro Armas2', 
 			gtype = 'primario'
 		},
-		'orgmone.permissao'
+		'armas2.permissao'
 	},
-	['lider-orgmone'] = {
+	['lider-armas2'] = {
 		_config = {
-			title = 'Líder Green Valley',
+			title = 'Líder Armas2',
 			gtype = 'hie'
 		},
-		'lider-orgmone.permissao'
+		'lider-armas2.permissao'
 	},
 
 	
-	['orgmtwo'] = {
+	['municao1'] = {
 		_config = {
-			title = 'Membro Gypsies', -- Tequi-La-La
+			title = 'Membro Munição', 
 			gtype = 'primario'
 		},
-		'orgmtwo.permissao'
+		'municao1.permissao'
 	},
-	['lider-orgmtwo'] = {
+	['lider-municao1'] = {
 		_config = {
-			title = 'Líder Gypsies',
+			title = 'Líder Munição1',
 			gtype = 'hie'
 		},
-		'lider-orgmtwo.permissao'
+		'lider-municao1.permissao'
 	},
 
 	
-	['orgmthree'] = {
+	['municao2'] = {
 		_config = {
-			title = 'Membro Vanilla', -- Vanilla
+			title = 'Membro Munição2', 
 			gtype = 'primario'
 		},
-		'orgmthree.permissao'
+		'municao2.permissao'
 	},
-	['lider-orgmthree'] = {
+	['lider-municao2'] = {
 		_config = {
-			title = 'Líder Vanilla',
+			title = 'Líder Munição2',
 			gtype = 'hie'
 		},
-		'lider-orgmthree.permissao'
+		'lider-municao2.permissao'
 	},
 
 
